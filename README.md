@@ -1,1 +1,1 @@
-# Text-Classification Using imdb dataset
+# TEXT CLASSIFICATION OF IMDB DATASET AVALIABLE ON TENSORFLOW
